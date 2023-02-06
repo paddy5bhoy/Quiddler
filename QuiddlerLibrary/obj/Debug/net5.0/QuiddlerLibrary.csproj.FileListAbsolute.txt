@@ -1,0 +1,68 @@
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.deps.json
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\ref\QuiddlerLibrary.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.pdb
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.AssemblyReference.cache
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.AssemblyInfoInputs.cache
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.AssemblyInfo.cs
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.CoreCompileInputs.cache
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\ref\QuiddlerLibrary.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.pdb
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.AssemblyInfoInputs.cache
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.AssemblyInfo.cs
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.CoreCompileInputs.cache
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\ref\QuiddlerLibrary.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.pdb
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.deps.json
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\ref\QuiddlerLibrary.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.pdb
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.AssemblyReference.cache
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.deps.json
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.dll
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\ref\QuiddlerLibrary.dll
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.pdb
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.AssemblyReference.cache
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.AssemblyInfoInputs.cache
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.AssemblyInfo.cs
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.CoreCompileInputs.cache
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.dll
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\ref\QuiddlerLibrary.dll
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.pdb
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\Word Object Library.deps.json
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\Word Object Library.runtimeconfig.json
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\Word Object Library.runtimeconfig.dev.json
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\Word Object Library.exe
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\Word Object Library.dll
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\Word Object Library.pdb
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.CopyComplete
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\Interop.Microsoft.Office.Core.dll
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.ResolveComReference.cache
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\Word Object Library.deps.json
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\Word Object Library.runtimeconfig.json
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\Word Object Library.runtimeconfig.dev.json
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\Word Object Library.exe
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.deps.json
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.dll
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\QuiddlerLibrary.pdb
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\Word Object Library.dll
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\net5.0\Word Object Library.pdb
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.AssemblyReference.cache
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\Interop.Microsoft.Office.Core.dll
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Word.dll
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.ResolveComReference.cache
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.AssemblyInfoInputs.cache
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.AssemblyInfo.cs
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.CoreCompileInputs.cache
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.csproj.CopyComplete
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.dll
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\refint\QuiddlerLibrary.dll
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\QuiddlerLibrary.pdb
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\net5.0\ref\QuiddlerLibrary.dll

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "QuiddlerClient/1.0.0": {
+        "dependencies": {
+          "QuiddlerLibrary": "1.0.0"
+        },
+        "runtime": {
+          "QuiddlerClient.dll": {}
+        }
+      },
+      "QuiddlerLibrary/1.0.0": {
+        "dependencies": {
+          "Word Object Library": "1.0.0"
+        },
+        "runtime": {
+          "QuiddlerLibrary.dll": {}
+        }
+      },
+      "Word Object Library/1.0.0": {
+        "runtime": {
+          "Word Object Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuiddlerClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuiddlerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Word Object Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

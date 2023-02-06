@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xMjnkMDDOO31NlaI76yVM2fOM6r+8YYhkXHoReHmM3aCfJlgcQQyB9AFKHFfAQPnW9Rd59EcAw/wam2zL1dNgw==",
+  "success": true,
+  "projectFilePath": "D:\\$School\\Component Software\\projects\\Project3.0\\Project\\QuiddlerLibrary\\QuiddlerLibrary\\QuiddlerLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paddy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\paddy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\paddy\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

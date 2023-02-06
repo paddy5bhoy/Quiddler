@@ -1,0 +1,45 @@
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.csproj.AssemblyReference.cache
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Interop.Microsoft.Office.Core.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Word.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.csproj.ResolveComReference.cache
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.AssemblyInfoInputs.cache
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.AssemblyInfo.cs
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.csproj.CoreCompileInputs.cache
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\Word Object Library\bin\Debug\net5.0\Word Object Library.exe
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\Word Object Library\bin\Debug\net5.0\Word Object Library.deps.json
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\Word Object Library\bin\Debug\net5.0\Word Object Library.runtimeconfig.json
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\Word Object Library\bin\Debug\net5.0\Word Object Library.runtimeconfig.dev.json
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\Word Object Library\bin\Debug\net5.0\Word Object Library.dll
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\Word Object Library\bin\Debug\net5.0\ref\Word Object Library.dll
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\Word Object Library\bin\Debug\net5.0\Word Object Library.pdb
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Interop.Microsoft.Office.Core.dll
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.csproj.ResolveComReference.cache
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.AssemblyInfoInputs.cache
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.AssemblyInfo.cs
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.csproj.CoreCompileInputs.cache
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.dll
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\ref\Word Object Library.dll
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.pdb
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.genruntimeconfig.cache
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\Word Object Library\bin\Debug\net5.0\Word Object Library.exe
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\Word Object Library\bin\Debug\net5.0\Word Object Library.deps.json
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\Word Object Library\bin\Debug\net5.0\Word Object Library.runtimeconfig.json
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\Word Object Library\bin\Debug\net5.0\Word Object Library.runtimeconfig.dev.json
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\Word Object Library\bin\Debug\net5.0\Word Object Library.dll
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\Word Object Library\bin\Debug\net5.0\Word Object Library.pdb
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.csproj.AssemblyReference.cache
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Interop.Microsoft.Office.Core.dll
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Word.dll
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.csproj.ResolveComReference.cache
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.AssemblyInfoInputs.cache
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.AssemblyInfo.cs
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.csproj.CoreCompileInputs.cache
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.dll
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\refint\Word Object Library.dll
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.pdb
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\Word Object Library.genruntimeconfig.cache
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\Word Object Library\obj\Debug\net5.0\ref\Word Object Library.dll

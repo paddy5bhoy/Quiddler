@@ -1,0 +1,88 @@
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.exe
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.deps.json
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.json
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.dev.json
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\ref\QuiddlerClient.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.pdb
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.pdb
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.AssemblyReference.cache
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfoInputs.cache
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfo.cs
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CoreCompileInputs.cache
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CopyComplete
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\ref\QuiddlerClient.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.pdb
+D:\School\INFO-5060-Comp Based Prog with .Net\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.genruntimeconfig.cache
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.exe
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.deps.json
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.json
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.dev.json
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\ref\QuiddlerClient.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.pdb
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.pdb
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.AssemblyReference.cache
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfoInputs.cache
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfo.cs
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CoreCompileInputs.cache
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CopyComplete
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\ref\QuiddlerClient.dll
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.pdb
+D:\School\INFO-5060-Comp Based Prog with .Net\Project 1 Pat\Project1\Project\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.genruntimeconfig.cache
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.exe
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.deps.json
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.json
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.dev.json
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.dll
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\ref\QuiddlerClient.dll
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.pdb
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.dll
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.pdb
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.AssemblyReference.cache
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfoInputs.cache
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfo.cs
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CoreCompileInputs.cache
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CopyComplete
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.dll
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\ref\QuiddlerClient.dll
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.pdb
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.genruntimeconfig.cache
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\Word Object Library.deps.json
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\Word Object Library.runtimeconfig.json
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\Word Object Library.runtimeconfig.dev.json
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\Word Object Library.exe
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\Word Object Library.dll
+C:\$School\Component Software\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\Word Object Library.pdb
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\Word Object Library.deps.json
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\Word Object Library.runtimeconfig.json
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\Word Object Library.runtimeconfig.dev.json
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\Word Object Library.exe
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.exe
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.deps.json
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.json
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.dev.json
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.dll
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.pdb
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.dll
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\Word Object Library.dll
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.pdb
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\Word Object Library.pdb
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.AssemblyReference.cache
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfoInputs.cache
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfo.cs
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CoreCompileInputs.cache
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CopyComplete
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.dll
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\refint\QuiddlerClient.dll
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.pdb
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.genruntimeconfig.cache
+D:\$School\Component Software\projects\Project3.0\Project\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\ref\QuiddlerClient.dll
